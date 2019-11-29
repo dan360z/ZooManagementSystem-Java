@@ -4,6 +4,7 @@ import org.softwire.training.zoo.models.*;
 import org.softwire.training.zoo.services.EnclosureCheckscheduler;
 import org.softwire.training.zoo.services.FeedingScheduler;
 import org.softwire.training.zoo.services.GroomingScheduler;
+import org.softwire.training.zoo.services.Scheduler;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

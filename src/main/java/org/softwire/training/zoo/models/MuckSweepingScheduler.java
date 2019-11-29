@@ -1,5 +1,7 @@
 package org.softwire.training.zoo.models;
 
+import org.softwire.training.zoo.services.Scheduler;
+
 import java.util.List;
 
 public class MuckSweepingScheduler implements Scheduler {

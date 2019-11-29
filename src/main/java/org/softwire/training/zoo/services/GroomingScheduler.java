@@ -3,7 +3,6 @@ package org.softwire.training.zoo.services;
 import org.softwire.training.zoo.models.Animal;
 import org.softwire.training.zoo.models.CanBeGroomed;
 import org.softwire.training.zoo.models.Keeper;
-import org.softwire.training.zoo.models.Scheduler;
 
 import java.util.List;
 
